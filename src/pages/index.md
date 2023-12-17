@@ -129,3 +129,10 @@ AI can help monitor infrastructure, predicting potential faults before they lead
 With a median age of 28.2, India has a relatively young population. Despite this, the country's healthcare infrastructure remains in a nascent stage and is largely inadequate. India has only 0.7 physicians, 1.7 nurses, and 0.5 hospital beds per 1,000 people. In contrast, China, a country with a similar population size, boasts 2.2 physicians, 3.1 nurses, and 4.3 hospital beds per 1,000 people.  
 
   This disparity highlights a significant opportunity to build in various aspects of healthcare which include preventive healthcare such as better diagnostic tools, promoting a fitness-oriented lifestyle(better fitness trackers), and critically, improving the current non-existent healthcare infrastructure(better med/nursing schools, hospitals, better and more equipements).
+
+
+---
+
+Website by [@DhravyaShah](https://x.com/dhravyashah). 
+Github repo: [https://github.com/dhravya/in-acc](https://github.com/dhravya/in-acc)
+Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com).

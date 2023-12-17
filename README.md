@@ -9,3 +9,5 @@
 </p>
 
 in/acc website, made with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com).
+
+⭐ Star this repo if you like it, it really helps!
