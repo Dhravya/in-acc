@@ -7,8 +7,8 @@ title: "in/acc - about"
     <a href="https://twitter.com/i/communities/1669220055907811330">
         <h1 align="center">🇮🇳/acc</h1>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/protosphinx/in/main/media/in-acc-dark.png">
-            <img src="https://raw.githubusercontent.com/protosphinx/in/main/media/in-acc-dark.png">
+            <source media="(prefers-color-scheme: dark)" srcset="https://i.dhr.wtf/r/Clipboard_Dec_16,_2023_at_11.52 PM.png">
+            <img src="https://i.dhr.wtf/r/Clipboard_Dec_16,_2023_at_11.52 PM.png">
         </picture>
     </a>
 </p>
